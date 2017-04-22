@@ -1,2 +1,2 @@
-# Bootstrap-Portfolio
-Assignment 2 - A Bootstrap Portfolio
+# Basic-Portfolio
+Assignment 1.2
